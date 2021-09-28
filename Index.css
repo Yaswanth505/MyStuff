@@ -1,0 +1,71 @@
+body {
+  background-color: rgb(50, 230, 200);
+  margin: 0px;
+  text-align: center;
+}
+
+hr {
+  margin: 25px;
+}
+
+h1 {
+  line-height: 2;
+  margin: 0px;
+}
+
+p {
+  line-height: 2;
+  margin: 0px;
+}
+
+.CloudOne {
+  position: relative;
+  left: 200px;
+  padding: 50px 0 0 0;
+}
+
+.DivOne {
+  background-color: teal;
+}
+
+.DivTwo {
+  background-color: turquoise;
+  margin: 30px auto 0;
+  width: 40%;
+}
+
+.CloudTwo {
+  position: relative;
+  right: 200px;
+}
+
+.mountain {
+}
+.Profile {
+  width: 200px;
+  margin: 20px;
+}
+
+.C {
+  width: 75px;
+  margin: 0 20px 0 20px;
+  float: left;
+}
+
+.Cpp {
+  width: 75px;
+  margin: 0 20px 0 20px;
+  float: right;
+}
+
+.Java {
+  width: 75px;
+  margin: 0 20px 0 20px;
+  float: left;
+}
+
+.Python {
+  width: 75px;
+  margin: 0 20px 0 20px;
+  float: right;
+}
