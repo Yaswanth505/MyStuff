@@ -31,24 +31,34 @@ body {
  .DivTwo{
      background-color: turquoise;
  }
+
+ .skills{
+      margin: 25px auto;
+      padding: 25px;
+  }
+
   .cImage{
       width: 40%;
       margin: 25px auto;
+      padding: 25px;
   }
 
   .cppImage{
     width: 40%;
     margin: 25px auto;
+    padding: 25px;
 }
 
 .javaImage{
     width: 40%;
     margin: 25px auto;
+    padding: 25px;
 }
 
 .pythonImage{
     width: 40%;
     margin: 25px auto;
+    padding: 25px;
 }
   .CloudTwo {
     position: relative;
