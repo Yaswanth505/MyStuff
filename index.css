@@ -1,97 +1,102 @@
 body {
-    background-color: rgb(50, 230, 200);
-    margin: 0px;
-    text-align: center;
-  }
-  
-  hr {
-    border-style: none;
-  }
-  
-  h1 {
-    line-height: 2;
-    margin: 0px;
-  }
-  
-  p {
-    line-height: 2;
-    margin: 0px;
-  }
-  
-  .CloudOne {
-    position: relative;
-    left: 200px;
-    padding: 50px 0 0 0;
-  }
-  
-  .DivOne {
-    background-color: teal;
-  }
-  
- .DivTwo{
-     background-color: turquoise;
- }
-
- .skills{
-      margin: 25px auto;
-      padding: 25px;
-  }
-
-  .cImage{
-      width: 40%;
-      margin: 25px auto;
-      padding: 25px;
-  }
-
-  .cppImage{
-    width: 40%;
-    margin: 25px auto;
-    padding: 25px;
+  background-color: rgb(50, 230, 200);
+  margin: 0px;
+  text-align: center;
 }
 
-.javaImage{
-    width: 40%;
-    margin: 25px auto;
-    padding: 25px;
+hr {
+  border-style: none;
 }
 
-.pythonImage{
-    width: 40%;
-    margin: 25px auto;
-    padding: 25px;
+h1 {
+  line-height: 2;
+  margin: 0px;
 }
-  .CloudTwo {
-    position: relative;
-    right: 200px;
-  }
-  
 
-  .Profile {
-    width: 200px;
-    margin: 20px;
-  }
-  
-  .C {
-    width: 75px;
-    margin: 0 20px 0 20px;
-    float: left;
-  }
-  
-  .Cpp {
-    width: 75px;
-    margin: 0 20px 0 20px;
-    float: right;
-  }
-  
-  .Java {
-    width: 75px;
-    margin: 0 20px 0 20px;
-    float: left;
-  }
-  
-  .Python {
-    width: 75px;
-    margin: 0 20px 0 20px;
-    float: right;
-  }
-  
+p {
+  line-height: 2;
+  margin: 0px;
+}
+
+.CloudOne {
+  position: relative;
+  left: 200px;
+  padding: 50px 0 0 0;
+}
+
+.DivOne {
+  background-color: teal;
+  margin: 0 0 25px 0;
+}
+
+.DivTwo {
+  background-color: turquoise;
+  margin: 25px 0 25px 0;
+}
+
+.skills {
+  margin: 25px auto;
+  padding: 25px;
+}
+
+.cImage {
+  width: 40%;
+  margin: 25px auto;
+  padding: 25px;
+}
+
+.cppImage {
+  width: 40%;
+  margin: 25px auto;
+  padding: 25px;
+}
+
+.javaImage {
+  width: 40%;
+  margin: 25px auto;
+  padding: 25px;
+}
+
+.pythonImage {
+  width: 40%;
+  margin: 25px auto;
+  padding: 25px;
+}
+.CloudTwo {
+  position: relative;
+  right: 200px;
+}
+
+.Profile {
+  width: 200px;
+  margin: 20px;
+}
+
+.C {
+  width: 75px;
+  margin: 20px 20px;
+  float: left;
+}
+
+.Cpp {
+  width: 75px;
+  margin: 20px 20px;
+  float: right;
+}
+
+.Java {
+  width: 75px;
+  margin: 20px 20px;
+  float: left;
+}
+
+.Python {
+  width: 75px;
+  margin: 20px 20px;
+  float: right;
+}
+
+.profileImage {
+  width: 50%;
+  margin: 20px auto;
+}
