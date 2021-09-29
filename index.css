@@ -63,8 +63,8 @@ p {
   padding: 25px;
 }
 .CloudTwo {
-  position: relative;
-  right: 200px;
+  position: absolute;
+  left: 400px;
 }
 
 .Profile {
